@@ -6,7 +6,6 @@ import customtkinter as ctk
 import time
 from pynput import keyboard
 
-# Global flags
 paused = False
 running = True
 quit_key = "q"  # Default quit key
